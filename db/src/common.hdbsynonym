@@ -1,0 +1,14 @@
+{
+  "BOOKINGS_STAR": {
+    "target": {
+      "object": "dise.bookings::BOOKINGS_STAR",
+      "schema": "COMMON"
+    }
+  },
+  "CUSTOMERS": {
+    "target": {
+      "object": "dise.bookings::CUSTOMERS",
+      "schema": "COMMON"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "UPS_ANALYST_SERVICE": {
+        "object_owner": {
+            "roles": [
+                "ANALYST_OO"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "ANALYST_AU"
+            ]
+        }
+    }
+}
